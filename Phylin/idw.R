@@ -74,3 +74,4 @@ for (i in 1:nrow(mp))
 }
 points(vipers[,1:2], pch=16) # plot samples points in black
 points(mp[,3:4], pch=16, col='gray') # plot midpoints in gray
+
